@@ -2,6 +2,7 @@
 
 # 📡 DevRadar
 
+![DR](https://github.com/bprofiro/assets/blob/master/dev1.png)
 
 ## 🚀 Sobre a aplicação:
 
@@ -15,18 +16,3 @@ Esse projeto foi construído em apenas uma linguagem: JavaScript, usando o recur
 -   [React](https://reactjs.org/)
 -   [React Native](https://facebook.github.io/react-native/)
 -   [Expo](https://expo.io/)
-
-
-
-## 🖍 Layout
-
-![DR](https://github.com/bprofiro/assets/blob/master/dev.png)
-
-
-Sidebar
-
-
-![DR](https://github.com/bprofiro/assets/blob/master/dev1.png)
-
-
-Sidebar com cadastros
