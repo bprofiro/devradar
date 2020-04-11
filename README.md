@@ -20,7 +20,7 @@ Esse projeto foi construído em apenas uma linguagem: JavaScript, usando o recur
 
 ## 🖍 Layout
 
-![DR](https://github.com/bprofiro/assets/blob/master/dev.png)
+![DR](https://github.com/bprofiro/assets/blob/master/dev1.png)
 
 
 Sidebar
