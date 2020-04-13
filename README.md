@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.svg" width="100">
+  <img src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.svg">
 </p>
 
 <h1 align="center">
