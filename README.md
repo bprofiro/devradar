@@ -1,17 +1,3 @@
-<div>
-  <h2> :rocket: About the project: </h2>
-
-  <p> The purpose of this application is to connect devs according to their location and the technologies used. When you register in the application, you can access your profile on Github. </p>
-</div>
-
-<p align="center">
-  <img src="https://github.com/Rocketseat/semana-omnistack-10/blob/master/.github/devradar.svg" />
-</p>
- 
-<p align="center">
-  <img src="https://github.com/bprofiro/assets/blob/master/dev1.png" />
-</p>
-
 ## Sobre o Projeto
 
   Esse projeto foi desenvolvido durante a Semana Omnistack 10, organizada pela Rocketseat, evento criado com o objetivo de passar, no periodo de uma semana, conhecimentos básicos e avançados de programação, por meio do desenvolvimento de um projeto de ponta a ponta. O projeto de vez foi o DevRadar.
