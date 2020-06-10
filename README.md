@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://github.com/Rocketseat/semana-omnistack-11/blob/master/.github/bethehero.svg" />
+</p>
+ 
+<p align="center">
+  <img src="https://github.com/bprofiro/assets/blob/master/dev1.png" />
+</p>
+
 ## Sobre o Projeto
 
   Esse projeto foi desenvolvido durante a Semana Omnistack 10, organizada pela Rocketseat, evento criado com o objetivo de passar, no periodo de uma semana, conhecimentos básicos e avançados de programação, por meio do desenvolvimento de um projeto de ponta a ponta. O projeto de vez foi o DevRadar.
